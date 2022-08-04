@@ -1,0 +1,6 @@
+ctypes
+numpy
+sqlalchemy
+streamlit
+pandas
+plotly
