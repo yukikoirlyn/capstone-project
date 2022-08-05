@@ -1,3 +1,4 @@
 sqlalchemy
 plotly
 statsmodels
+matplotlib
