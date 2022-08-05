@@ -102,7 +102,7 @@ st.line_chart(mobility)
 st.markdown('<div style="text-align: justify;font-size:15px;font-weight:bold;">Hal yang cukup menarik \
     terasa pada dua kondisi:</div>', unsafe_allow_html=True)
 st.markdown('<div style="text-align: justifi;font-size:15px;">1. Pada saat kasus \
-    covid meningkat dan 2. Pada saat libur nasional. \
+    covid meningkat \
         </div>', unsafe_allow_html=True)
 st.markdown('<div style="text-align: justify;font-size:15px;">2. Pada saat libur nasional. \
         </div>', unsafe_allow_html=True)
