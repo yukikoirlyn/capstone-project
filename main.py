@@ -145,9 +145,9 @@ heat_m = px.imshow(dfp_p, color_continuous_scale='jet')
 heat_m.update_layout(height=500)
 st.plotly_chart(heat_m, use_container_width=True)
 
-st.markdown('<div style="text-align:justify;font-size:15px;">Data menjelaskan ada lokasi park \
-    di tahun 2022tersebut memiliki sesuatu yang unik terlihat pada musim lebaran \
-        2022 nilai yang cukup tinggi. Pada musim liburan saat itu, umumnya masyarakat \
+st.markdown('<div style="text-align:justify;font-size:15px;">Data menjelaskan pada lokasi park \
+    di tahun 2022 memiliki sesuatu yang unik. Hal ini terlihat pada musim lebaran \
+        (Mei - Juni 2022) memiliki nilai mobilisasi yang cukup tinggi. Pada musim liburan saat itu, umumnya masyarakat \
             lebih memilih ke tempat yang outdoor ketimbang harus ke dalam mall. Sehingga, \
                 kebijakan pemerintah disini tidak dapat berlaku.</div>', unsafe_allow_html=True)
 
@@ -183,7 +183,7 @@ st.plotly_chart(scatt, use_container_width=True)
 
 st.markdown('<div style="text-align: justify;font-size:15px;">Melalui data di atas, \
     dapat menunjukkan bahwa sangat erat kaitannya antara mobilitas\
-        masyarakat dengan pertumbuhan ekonomi. Namun juga, terdapat hal yang berbeda pada data di \
+        masyarakat dengan pertumbuhan ekonomi. Selain itu, terdapat hal yang berbeda pada data di \
             triwulan 3 2021 dan triwulan 1 2022. Keadaan yang menyimpang dapat disebabkan adanya masalah\
                 kesehatan/kenaikan kasus covid pada masa itu namun tidak membuat masyarakat hilang kreativitas\
                     untuk meningkatkan perekonomian.</div>', unsafe_allow_html=True)
