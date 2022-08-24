@@ -11,15 +11,6 @@ st.set_page_config(layout="wide")
 image = Image.open('dqlab.png')
 image2 = Image.open('1000_F_121128679_pMxkyQRwMRFiZMru0nG0bFwnxj5qt8kY-removebg-preview.png')
 
-st.markdown("""
-<style>
-body {
-    color: #fff;
-    background-color: #000;
-}
-</style>
-    """, unsafe_allow_html=True)
-
 with st.sidebar:
     st.markdown('<div style="text-align: center;font-size:40px;font-weight:bold;color:grey;">Capstone Project</div>', unsafe_allow_html=True)
     st.markdown('<div style="text-align: center;font-size:15px;color:grey;">TETRIS PROGRAM</div>', unsafe_allow_html=True)
