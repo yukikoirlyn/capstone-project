@@ -40,7 +40,7 @@ with st.sidebar:
 st.markdown('<div style="text-align: center;font-size:40px;font-weight:bold;line-height:0.5;">Efiensi Kebijakan: </div>', unsafe_allow_html=True)
 st.markdown('<div style="text-align: center;font-size:50px;font-weight:bold;line-height:1.5;">Booster jadi Syarat Mobilitas</div>', unsafe_allow_html=True)
 st.markdown('<br>', unsafe_allow_html=True)
-st.markdown('<div style="text-align:center;font-size:20px;">Peningkatan kasus Covid-19\
+st.markdown('<div style="text-align:center;font-size:20px;">Peningkatan kasus Covid-19 pertengahan 2022\
      di beberapa negara terjadi begitu signifikan, seperti di Prancis, Italia, dan Jerman. Kenaikan\
         signifikan juga terjadi di negara tetangga, Singapura. Kabar baiknya, Indonesia menempati\
             posisi terendah pada kasus harian terhadap populasi, jika dibandingkan beberapa negara\
